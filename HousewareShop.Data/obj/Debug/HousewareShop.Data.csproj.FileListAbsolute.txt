@@ -10,3 +10,18 @@ E:\Thực tập + đồ án\HousewareShop\HousewareShop.Data\obj\Debug\Houseware
 E:\Thực tập + đồ án\HousewareShop\HousewareShop.Data\obj\Debug\HousewareShop.Data.csproj.CopyComplete
 E:\Thực tập + đồ án\HousewareShop\HousewareShop.Data\obj\Debug\HousewareShop.Data.dll
 E:\Thực tập + đồ án\HousewareShop\HousewareShop.Data\obj\Debug\HousewareShop.Data.pdb
+E:\Git\HousewareShop.Data\bin\Debug\HousewareShop.Data.dll.config
+E:\Git\HousewareShop.Data\bin\Debug\HousewareShop.Data.dll
+E:\Git\HousewareShop.Data\bin\Debug\HousewareShop.Data.pdb
+E:\Git\HousewareShop.Data\bin\Debug\HousewareShop.Model.dll
+E:\Git\HousewareShop.Data\bin\Debug\HousewareShop.Model.pdb
+E:\Git\HousewareShop.Data\bin\Debug\HousewareShop.Model.dll.config
+E:\Git\HousewareShop.Data\bin\Debug\EntityFramework.xml
+E:\Git\HousewareShop.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Git\HousewareShop.Data\obj\Debug\HousewareShop.Data.csprojAssemblyReference.cache
+E:\Git\HousewareShop.Data\obj\Debug\HousewareShop.Data.csproj.CoreCompileInputs.cache
+E:\Git\HousewareShop.Data\obj\Debug\HousewareShop.Data.csproj.CopyComplete
+E:\Git\HousewareShop.Data\obj\Debug\HousewareShop.Data.dll
+E:\Git\HousewareShop.Data\obj\Debug\HousewareShop.Data.pdb
+E:\Git\HousewareShop.Data\obj\Debug\HousewareShop.Data.Migrations.NewDB.resources
+E:\Git\HousewareShop.Data\obj\Debug\HousewareShop.Data.csproj.GenerateResource.cache
