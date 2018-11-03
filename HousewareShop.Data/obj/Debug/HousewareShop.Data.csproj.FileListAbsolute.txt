@@ -23,5 +23,5 @@ E:\Git\HousewareShop.Data\obj\Debug\HousewareShop.Data.csproj.CoreCompileInputs.
 E:\Git\HousewareShop.Data\obj\Debug\HousewareShop.Data.csproj.CopyComplete
 E:\Git\HousewareShop.Data\obj\Debug\HousewareShop.Data.dll
 E:\Git\HousewareShop.Data\obj\Debug\HousewareShop.Data.pdb
-E:\Git\HousewareShop.Data\obj\Debug\HousewareShop.Data.Migrations.NewDB.resources
+E:\Git\HousewareShop.Data\obj\Debug\HousewareShop.Data.Migrations.Datanew.resources
 E:\Git\HousewareShop.Data\obj\Debug\HousewareShop.Data.csproj.GenerateResource.cache
